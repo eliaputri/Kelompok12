@@ -20,6 +20,9 @@ Berdasarkan hasil klasifikasi komposit, persentase tutupan lahan Kabupaten Mojok
 3. Air : 0,30%
 4. Awan : 4,50%
 
+**Link Webgis**
+https://eliaputri.github.io/WebGIS_TutupanLahan_KabMojokerto/ 
+
 **Anggota Kelompok :**
 1. Elia Putri Yusviana — 5016241026
 2. Bellicia Cantika Wardani — 5016241047
